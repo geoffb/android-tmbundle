@@ -14,7 +14,35 @@ else
 	TITLE="Build"
 fi
 
-echo "<style type=\"text/css\">html,body{margin:0;background:#D4E9A9;} #body{padding:10px;} h1{background:#AACA46;color:#fff;padding:10px;border-bottom:solid 3px #aaa;} .error{color:#f00;font-weight:bold;display:block;} pre{background:#ddd;border:solid 1px #000;padding:10px;overflow:auto;}</style>"
+cat <<'HTML'
+<style type="text/css">
+	html, body {
+		margin:0;
+		background:#D4E9A9;
+	} 
+	#body {
+		padding:10px;
+	} 
+	h1 {
+		background:#AACA46;
+		color:#fff;
+		padding:10px;
+		border-bottom:solid 3px #aaa;
+	} 
+	.error {
+		color:#f00;
+		font-weight:bold;
+		display:block;
+	} 
+	pre {
+		background:#ddd;
+		border:solid 1px #000;
+		padding:10px;
+		overflow:auto;
+	}
+</style>
+HTML
+
 echo "<h1>Android: $TITLE</h1>"
 echo "<div id=\"body\">"
 
