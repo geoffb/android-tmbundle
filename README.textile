@@ -1,0 +1,20 @@
+h1. Android TextMate Bundle
+
+This is a simple bundle containing the most basic commands to aid in developing Android apps via TextMate.
+
+h2. Install
+
+Run the following shell commands:
+
+<pre>
+mkdir -p ~/Library/Application\ Support/TextMate/Bundles
+cd ~/Library/Application\ Support/TextMate/Bundles
+git clone git://github.com/geoffb/android-tmbundle.git Android.tmbundle
+</pre>
+
+_Important: Make sure that your @$PATH@ environment variable contains the location of the Android SDK._
+
+h2. Commands
+
+*Start Emulator:* Pretty self explanatory. This command starts the Android emulator.
+

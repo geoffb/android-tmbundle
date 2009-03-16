@@ -2,8 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>2D86F873-633F-4B21-8475-26EF72697E2A</string>
+			<string>------------------------------------</string>
+			<string>3C5FD12C-A480-4E8C-91E4-FF0C65D3D05C</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
 	<key>name</key>
 	<string>Android</string>
+	<key>ordering</key>
+	<array>
+		<string>3C5FD12C-A480-4E8C-91E4-FF0C65D3D05C</string>
+		<string>2D86F873-633F-4B21-8475-26EF72697E2A</string>
+	</array>
 	<key>uuid</key>
 	<string>8B3F1FC2-DC2B-486E-95FB-A74628D5AF6C</string>
 </dict>

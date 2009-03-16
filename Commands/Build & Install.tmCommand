@@ -5,18 +5,16 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>require_cmd emulator
-emulator &gt; /dev/null 2&gt;&amp;1 &amp;
-</string>
+	<string>"${TM_BUNDLE_SUPPORT}/bin/build.sh"</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
 	<string>^R</string>
 	<key>name</key>
-	<string>Start Emulator</string>
+	<string>Build &amp; Install</string>
 	<key>output</key>
-	<string>discard</string>
+	<string>showAsHTML</string>
 	<key>uuid</key>
-	<string>3C5FD12C-A480-4E8C-91E4-FF0C65D3D05C</string>
+	<string>2D86F873-633F-4B21-8475-26EF72697E2A</string>
 </dict>
 </plist>
