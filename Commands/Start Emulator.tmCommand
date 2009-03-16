@@ -11,7 +11,7 @@ emulator &gt; /dev/null 2&gt;&amp;1 &amp;
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>^R</string>
+	<string>~@a</string>
 	<key>name</key>
 	<string>Start Emulator</string>
 	<key>output</key>

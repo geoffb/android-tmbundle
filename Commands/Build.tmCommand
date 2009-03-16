@@ -5,16 +5,16 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>"${TM_BUNDLE_SUPPORT}/bin/build.sh" install</string>
+	<string>"${TM_BUNDLE_SUPPORT}/bin/build.sh"</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
 	<string>~@a</string>
 	<key>name</key>
-	<string>Build &amp; Install</string>
+	<string>Build</string>
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>uuid</key>
-	<string>2D86F873-633F-4B21-8475-26EF72697E2A</string>
+	<string>C43E4740-6B9A-4AD4-99D1-B6BDF57928CB</string>
 </dict>
 </plist>

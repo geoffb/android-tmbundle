@@ -16,8 +16,12 @@ Make sure that your @$PATH@ environment variable contains the location of the "A
 
 See "developing with Android in other IDEs":http://developer.android.com/guide/developing/other-ide.html for more information.
 
-h2. Commands
+h2. Usage
 
-*Build & Install:* Builds the project using Ant and installs the resultings apk on a currently running Android emulator using adb.
+Hotkey: Alt-Command-A
+
+*Build:*  Builds the project using Apache Ant.
+
+*Build & Install:* Builds the project using Apache Ant and installs the resulting %-debug.apk files on a currently running Android emulator using adb. Focuses the Android emulator once installs are complete.
 
 *Start Emulator:* Pretty self explanatory. This command starts the Android emulator. Do this before issuing install commands.
