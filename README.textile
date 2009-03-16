@@ -2,6 +2,8 @@ h1. Android TextMate Bundle
 
 This is a simple bundle containing the most basic commands to aid in developing Android apps via TextMate.
 
+_*{color:red;}Requires the Android SDK and Apache Ant.*_
+
 h2. Install
 
 Run the following shell commands:
@@ -12,7 +14,7 @@ cd ~/Library/Application\ Support/TextMate/Bundles
 git clone git://github.com/geoffb/android-tmbundle.git Android.tmbundle
 </pre>
 
-Make sure that your @$PATH@ environment variable contains the location of the "Android SDK":http://developer.android.com/sdk/.
+Make sure that your @$PATH@ environment variable contains the locations of the "Android SDK":http://developer.android.com/sdk/ and Apache Ant.
 
 See "developing with Android in other IDEs":http://developer.android.com/guide/developing/other-ide.html for more information.
 
