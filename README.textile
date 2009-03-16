@@ -25,3 +25,11 @@ Hotkey: Alt-Command-A
 *Build & Install:* Builds the project using Apache Ant and installs the resulting %-debug.apk files on a currently running Android emulator using adb. Focuses the Android emulator once installs are complete.
 
 *Start Emulator:* Pretty self explanatory. This command starts the Android emulator. Do this before issuing install commands.
+
+h3. TODOs
+
+* Create command for Activity Creator
+
+h4. Feedback
+
+Shoot me (Geoff) an email at "gmblair@gmail.com":mailto:gmblair@gmail.com with any feedback.
