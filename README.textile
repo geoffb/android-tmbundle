@@ -28,10 +28,10 @@ Hotkey: Alt-Command-A
 
 *Start Emulator:* Pretty self explanatory. This command starts the Android emulator. Do this before issuing install commands.
 
-h3. TODOs
+h2. TODOs
 
 * Create command for Activity Creator
 
-h4. Feedback
+h2. Feedback
 
 Shoot me (Geoff) an email at "gmblair@gmail.com":mailto:gmblair@gmail.com with any feedback.
