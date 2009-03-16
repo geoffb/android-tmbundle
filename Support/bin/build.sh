@@ -8,10 +8,6 @@ printError() {
 	echo "<span class=\"error\">Error: $1</span>"
 }
 
-runCommandAndPrintOutput() {
-	echo "fpp"
-}
-
 if [ "$1" = "install" ]; then
 	TITLE="Build & Install"
 else
