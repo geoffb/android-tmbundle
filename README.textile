@@ -12,9 +12,12 @@ cd ~/Library/Application\ Support/TextMate/Bundles
 git clone git://github.com/geoffb/android-tmbundle.git Android.tmbundle
 </pre>
 
-_Important: Make sure that your @$PATH@ environment variable contains the location of the Android SDK._
+Make sure that your @$PATH@ environment variable contains the location of the "Android SDK":http://developer.android.com/sdk/.
+
+See "developing with Android in other IDEs":http://developer.android.com/guide/developing/other-ide.html for more information.
 
 h2. Commands
 
-*Start Emulator:* Pretty self explanatory. This command starts the Android emulator.
+*Build & Install:* Builds the project using Ant and installs the resultings apk on a currently running Android emulator using adb.
 
+*Start Emulator:* Pretty self explanatory. This command starts the Android emulator. Do this before issuing install commands.
