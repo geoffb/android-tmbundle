@@ -31,6 +31,8 @@ Hotkey: Alt-Command-A
 h2. TODOs
 
 * Create command for Activity Creator
+* Skip install if errors occurred in build
+* Launch emulator from build & install script
 
 h2. Feedback
 

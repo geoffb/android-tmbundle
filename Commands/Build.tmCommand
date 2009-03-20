@@ -9,7 +9,7 @@
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>~@a</string>
+	<string>@b</string>
 	<key>name</key>
 	<string>Build</string>
 	<key>output</key>
