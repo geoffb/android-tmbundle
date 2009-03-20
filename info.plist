@@ -7,7 +7,7 @@
 	<key>contactEmailRot13</key>
 	<string>tzoynve@tznvy.pbz</string>
 	<key>description</key>
-	<string><a href="http://developer.android.com/">Android</a> is a software platform and operating system for mobile devices.</string>
+	<string>Android is a software platform and operating system for mobile devices.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
